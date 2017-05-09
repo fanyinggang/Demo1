@@ -1,6 +1,6 @@
 # 问题集2
 1. 个人主页上的“+”下拉菜单可创建的四种类别分别有？分别的意思？  
->new repository  创建仓库 
+>new repository  创建仓库   
 >import repository  
 >new gist  代码片段  
 >new organization 创建组织  
