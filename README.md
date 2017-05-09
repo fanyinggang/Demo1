@@ -1,16 +1,15 @@
 # Demo1
 demo  to
 fiste
-1. 个人主页上的“+”下拉菜单可创建的四种类别分别有？分别的意思？
-         new repository  创建仓库
-         import repository
-         new gist  代码片段
-         new organization 创建组织
-2. 如何能将仓库中的html文件直接解析成页面？
-        设置中source中将none改为master branch
-
-3. 如何删除仓库
-        setting 里delete
+1. 个人主页上的“+”下拉菜单可创建的四种类别分别有？分别的意思？  
+>new repository  创建仓库
+>import repository
+>new gist  代码片段
+>new organization 创建组织
+2. 如何能将仓库中的html文件直接解析成页面？  
+>设置中source中将none改为master branch
+3. 如何删除仓库  
+>setting 里delete
 
 4. Bash是什么操作系统的命令
         git bash是linux下的命令行工具。
