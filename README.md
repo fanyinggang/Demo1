@@ -24,8 +24,8 @@ fiste
 7. Echo是什么命令
 	在显示器上显示一段文字，一般起到一个提示的作用。
 
-8. 配置git用户名的命令
-	git config --global user.name ""
+8. 配置git用户名的命令  
+   git config --global user.name ""
 
 9. 配置邮箱的命令
 	git config --global user.email ""
