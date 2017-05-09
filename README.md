@@ -10,41 +10,37 @@ fiste
 >设置中source中将none改为master branch
 3. 如何删除仓库  
 >setting 里delete
-
-4. Bash是什么操作系统的命令
-        git bash是linux下的命令行工具。
-
-5. Pwd是什么命令
-	打印当前工作目录
-
-6. Cd是什么命令
-	改变目录
-
-7. Echo是什么命令
-	在显示器上显示一段文字，一般起到一个提示的作用。
+4. Bash是什么操作系统的命令  
+>git bash是linux下的命令行工具。  
+5. Pwd是什么命令  
+>打印当前工作目录
+6. Cd是什么命令  
+>改变目录
+7. Echo是什么命令  
+>在显示器上显示一段文字，一般起到一个提示的作用。
 
 8. 配置git用户名的命令  
-   git config --global user.name ""
+>git config --global user.name ""
 
 9. 配置邮箱的命令
-	git config --global user.email ""
+>git config --global user.email ""
 
 10. 命令行换行方式
-	\
+>\
 
 11. 命令行终结方式
-	ctrl+c
+>ctrl+c
 
 12. 使用命令行比GUI方式有何优势
-	批处理
+>批处理
 
 13. 提交到本地仓库时为什么有暂存区
-	如果有问题返回，如果没有问题提交
+>如果有问题返回，如果没有问题提交
 14. 新建代码仓库的命令
-	git init
+>git init
 
-15. git clone [url] 这个命令的作用是
-	克隆仓库的命令格式
+15. git clne [url] 这个命令的作用是
+>克隆仓库的命令格式
 16. 添加指定文件到暂存区的命令
 	git add
 17. 删除工作区文件，并且将这次删除放入暂存区的命令
